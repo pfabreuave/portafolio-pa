@@ -1,0 +1,66 @@
+ 
+  
+         @media  (max-width: 375px)
+               {
+                  h1 {
+                       font-size: 30px;
+        
+                     }  
+                  div {
+                       font-size: 24px;
+        
+                     }             
+               }
+ /*     html {
+       background: url("fotosp/mapa_paises.jpg") no-repeat center center fixed; 
+       background-size: cover; 
+       height: 100%; 
+       top: 0; 
+	      	left: 0; 
+	      	bottom: 0; 
+	      	right: 0; 
+	      	position: absolute; 
+	      	z-index: -1;
+       opacity: 0.2;
+   }*/
+     body {  
+	      	background: url("fotosp/mapa_paises.jpg");
+
+	      }
+
+/*      body::after { 
+	      	content: ""; 
+	      	background: url("fotosp/mapa_paises.jpg"); 
+	      	opacity: 0.8; 
+	      	top: 0; 
+	      	left: 0; 
+	      	bottom: 0; 
+	      	right: 0; 
+	      	position: absolute; 
+	      	z-index: -1;
+	      	min-width: 100%;
+	      	min-height: 100%;
+     }
+     */
+      #main{
+         /*background-color: blue;  */
+         width: 600px;  
+         height: 100%;
+         margin-left: auto;
+         margin-right: auto;
+       /*margin-top: -10px;*/
+      }
+      
+ /*   p  {
+      color: #5F9E09;
+      width: 50%;
+    }
+    */
+    div {
+        width: 550px;
+        padding: 1px;
+        padding-right: 1px;
+        color: #000000;
+        font-size: 24px;   
+    }
+   
